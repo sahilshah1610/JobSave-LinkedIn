@@ -32,6 +32,4 @@ Fork and clone/download the repository and change the configuration file(config.
 * Excel file will be stored in /excels folder
 
 
-### Execution
-
 
