@@ -1,2 +1,3 @@
 # JobSave-LinkedIn
-RPA tool for saving searched LinkedIn jobs
+With this tool you can easily automate the process of savings job details searched on LinkedIn.
+
